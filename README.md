@@ -61,7 +61,7 @@ dependencies: [
 > Note: AFNetworking's Swift package does not include it's UIKit extensions.
 
 ### Installation with Carthage
-1111111111
+chenyifyinformation$cc8888
 [Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate AFNetworking, add the following to your `Cartfile`.
 
 ```ogdl
